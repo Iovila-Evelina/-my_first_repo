@@ -2,3 +2,6 @@
 First laboratory of lab of software project development 2025/26
 
 Here is my first edit!
+This is a project for a course at H-Farm.
+
+
